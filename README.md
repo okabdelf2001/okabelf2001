@@ -14,7 +14,7 @@ Hello! I'm Omar Abdelfattah, a cybersecurity and Tech enthusiast. I am exiited a
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a cybersecurity professional with a passion for continuous learning and problem-solving, I aim to contribute to the security community by sharing projects, tools, and resources that highlight my skills in threat detection, vulnerability management, and secure coding practices. Through this repository, I showcase my hands-on experience in offensive and defensive security, automation using Python, and creative approaches to solving complex security challenges.
 --
 ## Skills
 
