@@ -36,7 +36,7 @@ I am a cybersecurity professional with hands-on experience in threat detection, 
 **Bachelor of Science in Computer Science (Concentration: Cybersecurity)**  
 **University of New Orleans** (Graduated: December 2024)  
 - Relevant Coursework: Computer Networks, Digital Forensics, Principles of Operating Systems, Database Management Systems  
-- GPA: 3.2  
+- GPA: 3.22  
 
 ---
 
